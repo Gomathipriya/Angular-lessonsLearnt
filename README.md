@@ -1,12 +1,13 @@
 # Angular-lessonsLearnt
 
-## Error
+## Error during importing custom module
 
 "ERROR in : Unexpected module 'HeaderModule declared by the module 'AppModule'. Please add a @Pipe/@Directive/@Component annotation."
 
-## Reason
+<strong> Reason <strong> 
 
 Due to different angular version in the imported module and importing module
+Module not added inside the import
 
 ## Cropped Vendor or inline or any bundle
 
