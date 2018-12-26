@@ -11,7 +11,7 @@ Module not added inside the import
 
 ## Cropped Vendor or inline or any bundle
 
-## Reason
+<strong> Reason </strong> 
 
 Due to Dynamic import
 
