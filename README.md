@@ -15,3 +15,7 @@ Module not added inside the import
 
 Due to Dynamic import
 
+## Angular 5 to Angular 6
+
+https://medium.com/@filipjerga/angular-5-to-angular-6-migration-guide-7ba4d2544411
+
