@@ -19,3 +19,10 @@ Due to Dynamic import
 
 https://medium.com/@filipjerga/angular-5-to-angular-6-migration-guide-7ba4d2544411
 
+## Capturing Query parameter and navigating by passing query parameter
+
+ <pre>
+ let queryParam = ActivatedRoute.snapshot.queryParams;
+ Router.navigate([currentUrl], { queryParams: queryParam});
+ </pre>
+
