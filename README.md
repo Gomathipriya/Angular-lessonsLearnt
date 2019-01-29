@@ -25,4 +25,6 @@ https://medium.com/@filipjerga/angular-5-to-angular-6-migration-guide-7ba4d25444
  let queryParam = ActivatedRoute.snapshot.queryParams;
  Router.navigate([currentUrl], { queryParams: queryParam});
  </pre>
+ 
+ interfaces only exist at compile-time. They don't exist at runtime.
 
