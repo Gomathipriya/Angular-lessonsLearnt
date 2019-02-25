@@ -27,4 +27,8 @@ https://medium.com/@filipjerga/angular-5-to-angular-6-migration-guide-7ba4d25444
  </pre>
  
  interfaces only exist at compile-time. They don't exist at runtime.
+ 
+ ## Images inside div
+ 
+ need to add <code> display: block / vertical-align : buttom </code> to avoid line-height being applied to the img tag inside div
 
